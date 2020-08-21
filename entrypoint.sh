@@ -1,4 +1,4 @@
 #!/bin/sh
 
-bundle-audit update
-bundle-audit check
+bundle exec bundle-audit update
+bundle exec bundle-audit check
